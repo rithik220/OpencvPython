@@ -9,7 +9,7 @@ cap = cv2.VideoCapture(0)
 cap.set(3,680)
 #heightidis-4
 cap.set(4,480)
-#brightnessidis-10
+#brightnessidis-(10,brightness)
 cap.set(10,10000)
 
 # cv2.imshow('image', img)
